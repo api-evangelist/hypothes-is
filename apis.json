@@ -1,0 +1,67 @@
+{
+    "name": "Hypothes.is",
+    "description": "<p>Our mission is to bring a new layer to the web. Use Hypothesis to discuss, collaborate, organize your research, or take personal notes.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/hypothesis-logo.png",
+    "tags": [
+        "annotations",
+        "api provider",
+        "api service provider",
+        "content",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/hypothes-is\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Hypothes.is",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/hypothesis-logo.png",
+            "humanURL": "https:\/\/hypothes.is\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/hypothes-is-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/hypothes-is-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Documentation",
+            "url": "https:\/\/h.readthedocs.io\/en\/latest\/api-reference\/#section\/Hypothesis-API"
+        },
+        {
+            "type": "Blog",
+            "url": "https:\/\/hypothes.is\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/hypothes.is\/feed\/"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/h.readthedocs.org\/en\/latest\/index.html"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/hypothesis"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/hypothes_is"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/hypothes.is\/"
+        }
+    ]
+}
